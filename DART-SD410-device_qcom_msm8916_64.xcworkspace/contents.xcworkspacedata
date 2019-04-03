@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:aanc_tuning_mixer.txt">
+   </FileRef>
+   <FileRef
+      location = "group:AndroidBoard.mk">
+   </FileRef>
+   <FileRef
+      location = "group:AndroidProducts.mk">
+   </FileRef>
+   <FileRef
+      location = "group:BoardConfig.mk">
+   </FileRef>
+   <FileRef
+      location = "group:bootanimation.zip">
+   </FileRef>
+   <Group
+      location = "group:cdrom_res"
+      name = "cdrom_res">
+      <FileRef
+         location = "group:README.txt">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:egl.cfg">
+   </FileRef>
+   <FileRef
+      location = "group:fstab.qcom">
+   </FileRef>
+   <FileRef
+      location = "group:ft5x06_ts.kl">
+   </FileRef>
+   <FileRef
+      location = "group:gpio-keys.kl">
+   </FileRef>
+   <FileRef
+      location = "group:hostapd.accept">
+   </FileRef>
+   <FileRef
+      location = "group:hostapd.conf">
+   </FileRef>
+   <FileRef
+      location = "group:hostapd.deny">
+   </FileRef>
+   <FileRef
+      location = "group:init.carrier.rc">
+   </FileRef>
+   <FileRef
+      location = "group:init.target.rc">
+   </FileRef>
+   <FileRef
+      location = "group:msm_irqbalance.conf">
+   </FileRef>
+   <FileRef
+      location = "group:msm8916_64.mk">
+   </FileRef>
+   <Group
+      location = "group:overlay"
+      name = "overlay">
+      <Group
+         location = "group:frameworks"
+         name = "frameworks">
+         <Group
+            location = "group:base"
+            name = "base">
+            <Group
+               location = "group:core"
+               name = "core">
+               <Group
+                  location = "group:res"
+                  name = "res">
+                  <Group
+                     location = "group:res"
+                     name = "res">
+                     <Group
+                        location = "group:values"
+                        name = "values">
+                        <FileRef
+                           location = "group:config.xml">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:xml"
+                        name = "xml">
+                        <FileRef
+                           location = "group:power_profile.xml">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:drawable-nodpi"
+                        name = "drawable-nodpi">
+                        <FileRef
+                           location = "group:default_wallpaper.jpg">
+                        </FileRef>
+                     </Group>
+                  </Group>
+               </Group>
+            </Group>
+         </Group>
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:p2p_supplicant_overlay.conf">
+   </FileRef>
+   <Group
+      location = "group:radio"
+      name = "radio">
+      <FileRef
+         location = "group:filesmap">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:recovery.fstab">
+   </FileRef>
+   <FileRef
+      location = "group:synaptics_dsx.kl">
+   </FileRef>
+   <FileRef
+      location = "group:synaptics_rmi4_i2c.kl">
+   </FileRef>
+   <FileRef
+      location = "group:system.prop">
+   </FileRef>
+   <FileRef
+      location = "group:vold.fstab">
+   </FileRef>
+   <FileRef
+      location = "group:WCNSS_qcom_cfg.ini">
+   </FileRef>
+   <FileRef
+      location = "group:WCNSS_qcom_wlan_nv.bin">
+   </FileRef>
+   <FileRef
+      location = "group:WCNSS_wlan_dictionary.dat">
+   </FileRef>
+   <FileRef
+      location = "group:wpa_supplicant_overlay.conf">
+   </FileRef>
+</Workspace>
